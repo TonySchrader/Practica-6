@@ -6,6 +6,6 @@ int main() {
     char caracterA = 65;
     char caracterB = 'B';
     float puntoFlotanteNumero1 = 89.8;
-    unsigned double puntoFlotanteNumero2 = 238.2236;
+    unsigned doublepuntoFlotanteNumero2 = 238.2236;
   return 0;
 }
